@@ -1,0 +1,3 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"project.c" LINE:18
+display_digit DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"project.c" LINE:10
+timer2_ovf_isr DSTACK_USAGE:2 DSTACK_LEVEL:4 FILE:"project.c" LINE:93
